@@ -75,3 +75,4 @@
 </body>
 </html>
 <div data-banner-id="1454986"></div>
+<script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="344595"></script>
